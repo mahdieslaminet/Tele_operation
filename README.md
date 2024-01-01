@@ -52,6 +52,14 @@ BionicHand manufacturer for the SDK and hardware.
 Contact
 For any inquiries or support, please contact projectmaintainer@example.com.
 
+# part list
+  arduino  pro micro
+  hand 3D printed part
+  wires
+  servo motors 4X
+  usb cable
+  rabber
+
 Happy teleoperating!
 videos : https://drive.google.com/drive/folders/1-lnTERxzpkzXdfiHycbd_chaP0CYYiaS
 Certainly! Here's a todo list for future development of the Criminal Detection System with Face Detection and Ultrasonic Sensor Integration:
