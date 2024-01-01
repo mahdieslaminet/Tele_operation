@@ -53,11 +53,11 @@ Contact
 For any inquiries or support, please contact projectmaintainer@example.com.
 
 # part list
-   arduino  pro micro
-   hand 3D printed part
-   servo motors 4X
-   usb cable
-   rabber
+  arduino  pro micro
+  hand 3D printed part
+  servo motors 4X
+  usb cable
+  rabber
 
 Happy teleoperating!
 videos : https://drive.google.com/drive/folders/1-lnTERxzpkzXdfiHycbd_chaP0CYYiaS
